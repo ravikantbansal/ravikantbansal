@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravikantbansal
-- 👀 I’m interested in ...learning django frmaework and python
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...learning Full stack Development MERN
+- 🌱 I’m currently learning ...node.js
 - 💞️ I’m looking to collaborate on ...stackoverflow project
 - 📫 How to reach me ...ravikantbansal2004@gmail.com
 
